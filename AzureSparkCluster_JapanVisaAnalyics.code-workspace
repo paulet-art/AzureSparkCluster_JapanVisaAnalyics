@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "AzureSparkCluster_JapanVisaAnalyics",
+			"path": "AzureSparkCluster_JapanVisaAnalyics"
+		}
+	],
+	"settings": {}
+}
